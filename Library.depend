@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704559431 source:d:\code blocks\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1704559018 source:d:\code blocks\libray tes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
